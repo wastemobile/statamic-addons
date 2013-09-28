@@ -1,3 +1,6 @@
 [submodule "statamic-mobile-detect"]
 	path = statamic-mobile-detect
 	url = https://github.com/sergeifilippov/statamic-mobile-detect.git
+[submodule "BlueBird-Statamic"]
+	path = BlueBird-Statamic
+	url = https://github.com/fasterhorses/BlueBird-Statamic.git
