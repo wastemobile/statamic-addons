@@ -1,0 +1,3 @@
+[submodule "statamic-mobile-detect"]
+	path = statamic-mobile-detect
+	url = https://github.com/sergeifilippov/statamic-mobile-detect.git

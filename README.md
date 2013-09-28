@@ -16,4 +16,4 @@
 
 1. [Raven](http://www.statamic.com/add-ons/raven)：官方付費外掛（每站 $49），與 Symphony CMS 的 Events 相近，以 HTML Forms 處理要送進網站的各項處理。（不在此倉儲中管理）
 2. [Bison](http://builtwithbison.com)：尚未正式釋出的電子商務外掛，應該會是付費使用。
-3. [Mobile Detect](https://github.com/sergeifilippov/statamic-mobile-detect)：整合 [Mobile Detect](https://github.com/serbanghita/Mobile-Detect) 功能，使用核心標籤 `{{ mobile_detect }}` 在模板中判斷 computer、tablet 與 phone 三種使用者代理，進而讓伺服器吐出對應的內容。
+3. [Mobile Detect](https://github.com/sergeifilippov/statamic-mobile-detect)：整合 [Mobile Detect](https://github.com/serbanghita/Mobile-Detect) 功能，使用核心標籤 `{{ mobile_detect }}` 在模板中判斷 computer、tablet 與 phone 三種使用者代理，進而讓伺服器吐出對應的內容。（目錄下有使用 Mobile Detect 倉儲作為 submodule，但遞歸更新總是失敗，要記得進入確實拉回該目錄下的資料。）
