@@ -4,3 +4,18 @@
 [submodule "BlueBird-Statamic"]
 	path = BlueBird-Statamic
 	url = https://github.com/fasterhorses/BlueBird-Statamic.git
+[submodule "Dots-Statamic"]
+	path = Dots-Statamic
+	url = https://github.com/fasterhorses/Dots-Statamic.git
+[submodule "Eburt-Statamic"]
+	path = Eburt-Statamic
+	url = https://github.com/fasterhorses/Eburt-Statamic.git
+[submodule "gravatamatic"]
+	path = gravatamatic
+	url = https://github.com/stevenmilne/gravatamatic.git
+[submodule "Looper-Statamic"]
+	path = Looper-Statamic
+	url = https://github.com/fasterhorses/Looper-Statamic.git
+[submodule "placeimg_st_addon"]
+	path = placeimg_st_addon
+	url = git@bitbucket.org:masugadesign/placeimg_st_addon.git

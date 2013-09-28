@@ -19,4 +19,12 @@
 1. [Raven](http://www.statamic.com/add-ons/raven)：官方付費外掛（每站 $49），與 Symphony CMS 的 Events 相近，以 HTML Forms 處理要送進網站的各項處理。（不在此倉儲中管理）
 2. [Bison](http://builtwithbison.com)：尚未正式釋出的電子商務外掛，應該會是付費使用。
 3. [Mobile Detect](https://github.com/sergeifilippov/statamic-mobile-detect)：整合 [Mobile Detect](https://github.com/serbanghita/Mobile-Detect) 功能，使用核心標籤 `{{ mobile_detect }}` 在模板中判斷 computer、tablet 與 phone 三種使用者代理，進而讓伺服器吐出對應的內容。（目錄下有使用 Mobile Detect 倉儲作為 submodule，但遞歸更新總是失敗，要記得進入確實拉回該目錄下的資料。）
-4. [BlueBird](https://github.com/fasterhorses/BlueBird-Statamic.git)：使用 Twitter API 1.1 新版的外掛，可以輕鬆呈現推文與關注者。
+4. [Eburt](https://github.com/fasterhorses/Dots-Statamic.git)：建立星級（類似 Amazon 5 Stars）的評分機制。
+5. [BlueBird](https://github.com/fasterhorses/BlueBird-Statamic.git)：使用 Twitter API 1.1 新版的外掛，可以輕鬆呈現推文與關注者。
+6. [Dots](https://github.com/fasterhorses/Dots-Statamic.git)：取用 Flickr。
+7. [Gravatamatic](https://github.com/stevenmilne/gravatamatic.git)：只需要電子郵件，就能輕鬆在網站使用 Gravatar 的頭像（當然必須該名使用者有 Gravatar 頭像）。
+8. [Highlight](https://github.com/mwesten/Plugin-Highlight.git)：使用 [Highlight.js](http://softwaremaniacs.org/soft/highlight/en) 標記各種程式碼，倉儲中的 Highlight 版本有些落後，目前應是 7.3。
+9. [Loop](https://github.com/fasterhorses/Looper-Statamic.git)：很單純的在模板中重複一個區段的快捷碼。
+10. [PlaceIMG](git@bitbucket.org:masugadesign/placeimg_st_addon.git)：快速使用 Placeimg 服務，在開發過程中取得不太醜的圖片組版，好處是可以指定人物、動物等類別。
+11. [Gist](https://github.com/statamic/Plugin-Gist.git)：只需使用快捷碼、編號，就能呈現，好處是可以將程式碼範例擺在 Gist。
+
